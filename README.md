@@ -75,7 +75,7 @@ A command-line application to manage a company's employee database, built using 
   - View department budgets
 
 ## Demo Video
-Coming soon!
+https://vimeo.com/1060689230?share=copy
 
 ## Technologies Used
 - Node.js
